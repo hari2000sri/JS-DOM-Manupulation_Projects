@@ -1,1 +1,1 @@
-This Repo contains handson projects for JS DOM Manupulation
+This Repo contains hands-on projects for JS DOM Manupulation
